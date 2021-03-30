@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Playfair+Display&display=swap');
+
 body {
-    font-family: Mongolian Baiti;
+    font-family: 'Domine', serif;
 }
 
 .main-container {
@@ -10,6 +12,7 @@ body {
 }
 
 h1, h2 {
+    font-family: 'Playfair Display', serif;
     margin-top: 30px;
     margin-bottom: 30px;
     border-top: 1px solid #000000!important;
